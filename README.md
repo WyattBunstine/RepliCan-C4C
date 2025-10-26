@@ -1,3 +1,5 @@
+<img src=".assets/replican.png" width="100%">
+
 # RepliCan: Reproducibility Challenge
 
 Thank you for your interest in contributing to our materials science paper reproducibility benchmark! Please follow these guidelines to submit paper reproduction instructions.
